@@ -126,6 +126,8 @@
     <Content Include="img\lion-removebg-preview.png" />
     <Content Include="img\Samburu_9_resize-removebg-preview.png" />
     <Content Include="img\דוב-removebg-preview.png" />
+    <Content Include="javahtml.html" />
+    <Content Include="JavaScript.js" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
