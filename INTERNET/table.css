@@ -1,0 +1,52 @@
+﻿﻿body {
+}
+
+table, tr, td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0px auto;
+    direction: rtl
+}
+
+.madmh {
+    background-color: saddlebrown;
+}
+
+.safrot {
+    background-color: lawngreen;
+}
+
+.hinohgofni {
+    background-color: aqua
+}
+
+.azrhot {
+    background-color: antiquewhite
+}
+
+.tksort {
+    background-color: orange
+}
+
+.tora {
+    background-color: darkblue
+}
+
+.math {
+    background-color: lightcyan
+}
+
+.eng {
+    background-color: indianred
+}
+
+.tba {
+    background-color: mediumpurple
+}
+
+.haba {
+    background-color: darkorange
+}
