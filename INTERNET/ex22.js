@@ -24,14 +24,6 @@
 //img.setAttribute("height", "200 ");
 //td2.appendChild(img);
 //var link = document.createElement("a");
-//link.setAttribute("href", "http://www.google.com");
-//link.innerHTML = "GOOGLE"
-//td.appendChild(link);
-//tr.appendChild(td);
-//tr.appendChild(td2);
-//table.appendChild(tr);
-//div3.appendChild(table);
-
 //Targil 4
 //var div4 = document.getElementById("div4");
 //var table = document.createElement("table");
