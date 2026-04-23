@@ -131,11 +131,17 @@
     <Content Include="ex23.js" />
     <Content Include="ex24.html" />
     <Content Include="ex24.js" />
+    <Content Include="ex25.html" />
+    <Content Include="ex25.js" />
     <Content Include="img\1.jpg" />
     <Content Include="img\2.jpg" />
     <Content Include="img\3.jpg" />
     <Content Include="img\4.jpg" />
     <Content Include="img\5.jpg" />
+    <Content Include="img\dolphin.jpg" />
+    <Content Include="img\elephant.jpg" />
+    <Content Include="img\giraffe.jpg" />
+    <Content Include="img\rabit.jpg" />
     <Content Include="img\tree.jpg" />
     <Content Include="בעלי חיים\elephant.html" />
     <Content Include="favicon.ico" />
